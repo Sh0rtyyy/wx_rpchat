@@ -60,7 +60,7 @@ wx.AdminGroups = { -- Which groups should have access to the admin commands and 
     ["trial"]    = true,
 }
 
-wx.AutoMessages = true
+wx.AutoMessages = false
 wx.AutoMessageInterval = 25 -- In minutes
 wx.AutoMessagesList = { -- List of messages that will be randomly sent
     "Make sure to join our discord! discord.gg/invite",
